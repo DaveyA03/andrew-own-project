@@ -6,3 +6,14 @@ body {
     color: navy;
     margin-left: 20px;
     }
+
+ .andimg {
+    width: 100%;
+    max-width: 960px;
+ }
+
+ .andimg2{
+   width:100%;
+   max-width:640px;
+
+ }
